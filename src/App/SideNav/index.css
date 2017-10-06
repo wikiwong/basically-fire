@@ -1,0 +1,6 @@
+.sideNav {
+    position: absolute;
+    left: 0;
+    display: inline-block;
+    margin: 16px 32px 16px 0;
+}
