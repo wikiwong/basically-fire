@@ -1,9 +1,18 @@
 # basically fire
 This pet project is a WIP and is intended to be a launch pad for personal projects. It originally used Firebase for persistence, hence the randomness of the name :)
 
-## Running the service
+## MongoDB
+
+[install](https://docs.mongodb.com/getting-started/shell/installation/) and run:
+
+```
+sudo mongod
+```
+
+## Node
 
 This project was built using Node 8 and NPM5
+
 
 ```
 git clone https://github.com/wikiwong/basically-fire.git`
