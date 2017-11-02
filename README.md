@@ -35,8 +35,7 @@ docker run -p 8080:8080 mytag
 ## Plans
 
 * Compose MongoDB container with Node service for easy deploy to cloud services
-* Remove Material UI dependenc to update to React 16 (build custom theme)
-* Improve CSS Module support in dev mode
+* Switch to styled components
 * Finish production build process
 * Code split on routes (if necessary)
 * Include Jest to promote testing
