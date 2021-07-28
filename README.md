@@ -1,5 +1,8 @@
 # basically fire
-This pet project is a WIP and is intended to be a launch pad for personal projects. It originally used Firebase for persistence, hence the randomness of the name :)
+This pet project is a WIP and is intended to be a launch pad for personal projects. It originally used Firebase for persistence, that's why it's `basically-fire`
+
+## Note!
+I haven't touched this project in years and have not been keeping up with the Firebase project
 
 ## MongoDB
 
