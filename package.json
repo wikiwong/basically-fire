@@ -4,7 +4,7 @@
   "description": "That fire",
   "main": "index.js",
   "dependencies": {
-    "ajv": "^5.2.3",
+    "ajv": "^6.12.3",
     "autoprefix": "^1.0.1",
     "autoprefixer": "^7.1.5",
     "axios": "^0.16.2",
